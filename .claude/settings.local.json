@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:zh.wikipedia.org)",
+      "Bash(curl -s \"https://source.unsplash.com/random/800x600/?zhang-yiming-bytedance\" --output \"/Users/pengwenfan/project/claw/myClaw/Biography/张一鸣/张一鸣.jpg\" -L)",
+      "Bash(curl -o \"/Users/pengwenfan/project/claw/myClaw/Biography/张一鸣/张一鸣.jpg\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Zhang_Yiming_2016.jpg/800px-Zhang_Yiming_2016.jpg\" -L)",
+      "Bash(curl -o \"/Users/pengwenfan/project/claw/myClaw/Biography/张一鸣/张一鸣.jpg\" \"https://pic.pimg.tw/signal30128/1623512442-3335807170_n.jpg\" -L)",
+      "Bash(ping -c 2 baidu.com)"
+    ]
+  }
+}
