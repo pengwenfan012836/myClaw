@@ -1,0 +1,11 @@
+# 雷军图片 URL 列表
+# 来源：Wikimedia Commons（免费商用）
+# 保存位置：Biography/雷军/images/
+
+https://upload.wikimedia.org/wikipedia/zh/5/53/%E9%9B%B7%E5%86%9B_Lei_Jun.jpg
+https://upload.wikimedia.org/wikipedia/zh/f/fc/%E9%9B%B7%E5%86%9B_2024-09-13.jpg
+https://upload.wikimedia.org/wikipedia/zh/c/c4/2019%E9%9B%B7%E8%BB%8D.png
+https://upload.wikimedia.org/wikipedia/zh/c/ca/%E9%9B%B7%E5%86%9B_Lei_Jun_20240425_1.jpg
+https://upload.wikimedia.org/wikipedia/zh/7/76/%E9%9B%B7%E5%86%9B_Lei_Jun_20240425_2.jpg
+https://upload.wikimedia.org/wikipedia/zh/5/58/%E9%9B%B7%E5%86%9B_Lei_Jun_20240425_3.jpg
+https://upload.wikimedia.org/wikipedia/zh/c/c4/Lei_Jun_at_Two_Sessions_2025.png
