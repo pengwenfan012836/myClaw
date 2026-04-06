@@ -1,6 +1,4 @@
-# 2016-Code-Conference访谈关于AI与火星
 
-*以下内容为第三人称叙述，整理自埃隆·马斯克在Code Conference上的访谈内容*
 
 ---
 
