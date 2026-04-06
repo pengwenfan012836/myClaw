@@ -1,0 +1,25 @@
+# 雷军 Wikimedia Commons 图片 URL 列表
+
+## 图片列表
+
+| 序号 | 文件名 | URL | 说明 |
+|------|--------|-----|------|
+| 1 | portrait.jpg | https://upload.wikimedia.org/wikipedia/zh/5/53/%E9%9B%B7%E5%86%9B_Lei_Jun.jpg | 标准照 |
+| 2 | portrait_2024.jpg | https://upload.wikimedia.org/wikipedia/zh/f/fc/%E9%9B%B7%E5%86%9B_2024-09-13.jpg | 2024年近照 |
+| 3 | lei_jun_2019.png | https://upload.wikimedia.org/wikipedia/zh/c/c4/2019%E9%9B%B7%E8%BB%8D.png | 2019年照片 |
+| 4 | lei_jun_20240425_1.jpg | https://upload.wikimedia.org/wikipedia/zh/c/ca/%E9%9B%B7%E5%86%9B_Lei_Jun_20240425_1.jpg | 小米发布会1 |
+| 5 | lei_jun_20240425_2.jpg | https://upload.wikimedia.org/wikipedia/zh/7/76/%E9%9B%B7%E5%86%9B_Lei_Jun_20240425_2.jpg | 小米发布会2 |
+| 6 | lei_jun_20240425_3.jpg | https://upload.wikimedia.org/wikipedia/zh/5/58/%E9%9B%B7%E5%86%9B_Lei_Jun_20240425_3.jpg | 小米发布会3 |
+| 7 | lei_jun_two_sessions_2025.png | https://upload.wikimedia.org/wikipedia/zh/c/c4/Lei_Jun_at_Two_Sessions_2025.png | 2025年两会 |
+| 8 | lei_jun_wipo.jpg | https://upload.wikimedia.org/wikipedia/commons/53/95/WIPO_Director_General_Visits_Xiaomi_EV_Plant_in_Beijing_(53990684257).jpg | WIPO参观小米工厂（高清3.98MB） |
+
+## 纯 URL 列表（用于脚本）
+
+https://upload.wikimedia.org/wikipedia/zh/5/53/%E9%9B%B7%E5%86%9B_Lei_Jun.jpg
+https://upload.wikimedia.org/wikipedia/zh/f/fc/%E9%9B%B7%E5%86%9B_2024-09-13.jpg
+https://upload.wikimedia.org/wikipedia/zh/c/c4/2019%E9%9B%B7%E8%BB%8D.png
+https://upload.wikimedia.org/wikipedia/zh/c/ca/%E9%9B%B7%E5%86%9B_Lei_Jun_20240425_1.jpg
+https://upload.wikimedia.org/wikipedia/zh/7/76/%E9%9B%B7%E5%86%9B_Lei_Jun_20240425_2.jpg
+https://upload.wikimedia.org/wikipedia/zh/5/58/%E9%9B%B7%E5%86%9B_Lei_Jun_20240425_3.jpg
+https://upload.wikimedia.org/wikipedia/zh/c/c4/Lei_Jun_at_Two_Sessions_2025.png
+https://upload.wikimedia.org/wikipedia/commons/53/95/WIPO_Director_General_Visits_Xiaomi_EV_Plant_in_Beijing_(53990684257).jpg
