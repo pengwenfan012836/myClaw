@@ -1,5 +1,5 @@
 
-## 基本信息
+#### 📌 基本信息
 
 | 项目 | 内容 |
 |------|------|
@@ -11,7 +11,7 @@
 
 ---
 
-## 完整访谈原文
+#### 🎤 完整访谈原文
 
 ### 关于获奖
 
@@ -64,7 +64,3 @@
 **Tim Sweeney**: 也许没什么关系。但我从小就对自然感兴趣。拆解割草机、造卡丁车——这些都是对"创造"和"理解系统"的热爱。保护自然也是某种延伸。
 
 ---
-
-*本页面整理自 [Kotaku - The Quiet Tinkerer Who Makes Games Beautiful Finally Gets His Due](https://kotaku.com/the-quiet-tinkerer-who-makes-games-beautiful-finally-ge-5865951)*
-
-*整理日期: 2026年4月3日*

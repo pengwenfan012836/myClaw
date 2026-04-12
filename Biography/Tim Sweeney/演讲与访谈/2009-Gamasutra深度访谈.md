@@ -1,5 +1,5 @@
 
-## 基本信息
+#### 📌 基本信息
 
 | 项目 | 内容 |
 |------|------|
@@ -11,7 +11,7 @@
 
 ---
 
-## 完整访谈原文
+#### 🎤 完整访谈原文
 
 ### 关于童年和编程启蒙
 
@@ -64,7 +64,3 @@
 **Tim Sweeney**: 我对自然保护很感兴趣。这些年我购买了一些土地，主要是为了保护自然环境不被开发破坏。
 
 ---
-
-*本页面整理自 [Gamasutra - From The Past To The Future: Tim Sweeney Talks](https://www.gamedeveloper.com/design/from-the-past-to-the-future-tim-sweeney-talks)*
-
-*整理日期: 2026年4月3日*

@@ -1,5 +1,5 @@
 
-## 基本信息
+#### 📌 基本信息
 
 | 项目 | 内容 |
 |------|------|
@@ -11,7 +11,7 @@
 
 ---
 
-## 完整访谈原文
+#### 🎤 完整访谈原文
 
 ### 关于Fortnite的成功
 
@@ -74,7 +74,3 @@
 **Tim Sweeney**: 专注于你想创造的东西，而不是想着赚快钱。如果你创造的东西足够好，成功自然会来。
 
 ---
-
-*本页面整理自 [Wall Street Journal - The Man Behind 'Fortnite'](https://www.wsj.com/articles/the-man-behind-fortnite-11560571201)*
-
-*整理日期: 2026年4月3日*
