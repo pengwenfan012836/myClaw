@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.remotion.dev)",
+      "WebSearch",
+      "Bash(npm info:*)",
+      "Bash(npm search:*)"
+    ]
+  }
+}
