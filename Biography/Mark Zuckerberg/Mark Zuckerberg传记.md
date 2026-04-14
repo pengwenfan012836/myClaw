@@ -1,4 +1,3 @@
-# Mark Zuckerberg 马克·扎克伯格
 
 > "Ideas don't come out fully formed. They only become clear when you work on them. You just have to get started."
 > 
@@ -111,22 +110,3 @@
 
 ---
 
-## 📚 推荐阅读
-
-- 《意外的亿万富翁》（The Accidental Billionaires）- Ben Mezrich
-- 《Facebook：关于性、金钱、天才和背叛的故事》（The Facebook Effect）- David Kirkpatrick
-- 《连接社交》（The Friction Chapters）- 官方博客精选
-
----
-
-## 🔗 相关链接
-
-- [维基百科 - Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg)
-- [Meta 官网](https://about.meta.com/)
-- [Facebook 官方博客](https://about.fb.com/news/)
-- [Mark Zuckerberg 官方主页](https://www.facebook.com/zuck)
-- [陈-扎克伯格基金会](https://chanzuckerberg.com/)
-
----
-
-*最后更新：2024年*

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk '{print $2}')",
+      "Bash(git checkout:*)",
+      "Bash(node scripts/renzhengfei/add-renzhengfei-to-database.js)"
+    ]
+  }
+}

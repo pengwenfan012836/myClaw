@@ -1,4 +1,3 @@
-# Jensen Huang 黄仁勋
 
 > "Our company is thirty days from going out of business." —— Nvidia的非官方公司信条
 
@@ -114,23 +113,3 @@
 
 ---
 
-## 📚 推荐阅读
-
-- 《英伟达CEO黄仁勋传》—— 深入了解GPU之王的成长历程
-- Nvidia官方博客 —— 了解最新技术动态
-- 黄仁勋CES/GTC主题演讲 —— 了解AI发展趋势
-- Lex Fridman Podcast访谈 —— 黄仁勋深度对话
-
----
-
-## 🔗 相关链接
-
-- [Wikipedia - Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang)
-- [Nvidia官网](https://www.nvidia.com)
-- [福布斯 - Jensen Huang](https://www.forbes.com/profile/jensen-huang)
-- [TIME - Jensen Huang](https://time.com/collection/time100/)
-- [Lex Fridman Podcast #394 - Jensen Huang](https://lexfridman.com/jensen-huang/)
-
----
-
-*最后更新：2026年4月3日*

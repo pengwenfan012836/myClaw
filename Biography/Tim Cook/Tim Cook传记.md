@@ -1,4 +1,3 @@
-# Tim Cook
 
 > "在做一个重大决定时，我不会让理性分析占主导，而是倾听内心的声音。"——Tim Cook
 
@@ -107,23 +106,3 @@
 
 ---
 
-## 📚 推荐阅读
-
-- Tim Cook 奥本大学毕业典礼演讲（2010年）
-- Tim Cook 杜克大学毕业典礼演讲（2018年）
-- 《后乔布斯时代：苹果如何成为万亿公司》（After Steve, Tripp Mickle著）
-- Bloomberg专题：Tim Cook出柜声明（2014年）
-
----
-
-## 🔗 相关链接
-
-- [维基百科 - Tim Cook](https://en.wikipedia.org/wiki/Tim_Cook)
-- [苹果公司官网](https://www.apple.com)
-- [Tim Cook 推特/X](https://twitter.com/tim_cook)
-- [Nike董事会成员页面](https://investors.nike.com)
-- [杜克大学受托人页面](https://trustees.duke.edu/trustees/tim-cook-b88)
-
----
-
-*最后更新：2026年4月*

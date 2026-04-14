@@ -1,4 +1,3 @@
-# 伊隆·马斯克 Elon Musk
 
 > "当你选择做一件你真正关心的事情时，你就不需要强迫自己工作，它是一种乐趣。" (When you're working on something you genuinely care about, you don't have to be pushed, the vision pulls you.)
 
@@ -158,26 +157,3 @@
 
 ---
 
-## 📚 推荐阅读
-
-- 《埃隆·马斯克传》—— 沃尔特·艾萨克森著（2023年）
-- 《硅谷钢铁侠：埃隆·马斯克的全球创业版图》—— 阿什利·万斯著
-- 《特斯拉传：改变世界的汽车》—— 查尔斯·莫里斯著
-- 《SpaceX：马斯克与太空野心》—— 埃里克·伯杰著
-- 《马斯克：谁是下一个乔布斯》—— 达夫·麦克唐纳著
-
----
-
-## 🔗 相关链接
-
-- [维基百科 - Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
-- [中文维基百科 - 埃隆·马斯克](https://zh.wikipedia.org/wiki/%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B)
-- [SpaceX官网](https://www.spacex.com)
-- [特斯拉官网](https://www.tesla.com)
-- [X平台官网](https://x.com)
-- [Neuralink官网](https://neuralink.com)
-- [The Boring Company官网](https://www.boringcompany.com)
-
----
-
-*最后更新：2026年4月*

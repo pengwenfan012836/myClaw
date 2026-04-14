@@ -1,4 +1,3 @@
-# Jeff Bezos 杰夫·贝索斯
 
 > "Life is what happens to you while you're busy making other plans." —— 这句歌词我年轻时就很喜欢，它提醒我时间的宝贵。
 
@@ -126,37 +125,3 @@
 
 ---
 
-## 📚 推荐阅读
-
-### 官方传记与自述
-
-- 《创造与工具：从厨房到太空的全球首富之路》—— Walter Isaacson著
-- 《贝索斯传：谁是杰夫·贝索斯？》—— Brad Stone著
-- 《长期主义》—— 贝索斯年度股东信合集
-
-### 演讲与访谈
-
-- **TED 2010** —— 贝索斯谈太空探索和蓝色起源的愿景
-- **TED 2018** —— 贝索斯谈好奇心、想象力、批判性思维
-- **Re:MARS 2019** —— 贝索斯关于AI和太空的愿景演讲
-- **D60: Day One** —— 2018年亚马逊员工大会演讲
-
-### 经典文章
-
-- **1997年致股东信** —— 阐述亚马逊长期主义哲学的奠基之作
-- **2018年致股东信** —— 贝索斯关于"Day 2"陷阱的警示
-
----
-
-## 🔗 相关链接
-
-- [维基百科 - Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos)
-- [亚马逊官网 - About Jeff](https://www.aboutamazon.com/)
-- [蓝色起源官网](https://www.blueorigin.com/)
-- [杰夫·贝索斯 Instagram](https://www.instagram.com/jeffbezos/)
-- [杰夫·贝索斯 Twitter/X](https://twitter.com/jeffbezos)
-- [TED - Jeff Bezos](https://www.ted.com/speakers/jeff_bezos)
-
----
-
-*最后更新：2026年4月3日*

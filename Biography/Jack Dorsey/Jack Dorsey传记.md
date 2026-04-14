@@ -1,4 +1,3 @@
-# Jack Dorsey 杰克·多西
 
 > "Twitter的核心是成为公众对话的舞台，而Square则是让每个人都能参与经济活动。两者都关乎赋权与连接。"
 
@@ -134,24 +133,3 @@
 
 ---
 
-## 📚 推荐阅读
-
-- Twitter官方博客档案
-- 《The Twitter Story》- 相关传记作品
-- 乔布斯传 - 另一位改变了多个行业的科技先驱
-- Satoshi Nakamoto的比特币白皮书
-- 《Tools of Titans》- Tim Ferriss，Dorsey在该书中提供建议
-
----
-
-## 🔗 相关链接
-
-- [维基百科 - Jack Dorsey](https://en.wikipedia.org/wiki/Jack_Dorsey)
-- [Twitter官方](https://twitter.com)
-- [Block (Square)官网](https://block.xyz)
-- [Bluesky官网](https://bsky.app)
-- [Jack Dorsey Twitter](https://twitter.com/jack)
-
----
-
-*最后更新：2026年4月3日*

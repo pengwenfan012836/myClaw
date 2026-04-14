@@ -1,6 +1,8 @@
+### 📅 成长过程 — 妻子Anupama的陪伴与支持
+
 ---
 
-#### ❤️ 妻子Anupama的陪伴
+### ❤️ 妻子Anupama的陪伴
 
 Satya Nadella的妻子Anupama是一位印度裔美国人，两人在印度相识。
 

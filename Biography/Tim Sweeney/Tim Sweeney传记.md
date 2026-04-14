@@ -1,4 +1,3 @@
-# Tim Sweeney 蒂姆·斯维尼
 
 > "游戏开发的核心不是图形，而是让数百万玩家能够创造和分享自己的世界。"
 
@@ -126,57 +125,3 @@
 
 ---
 
-## 📚 推荐阅读
-
-### 官方资料
-
-- [Epic Games官网](https://www.epicgames.com)
-- [Unreal Engine官网](https://www.unrealengine.com)
-- [Fortnite官网](https://www.fortnite.com)
-
-### 深度访谈
-
-- "From The Past To The Future: Tim Sweeney Talks" - Gamasutra (2009)
-- "The Quiet Tinkerer Who Makes Games Beautiful Finally Gets His Due" - Kotaku (2011)
-- "The Man Behind 'Fortnite'" - Wall Street Journal (2019)
-- "Epic Games CEO Tim Sweeney's path to the open metaverse" - GamesBeat (2024)
-
-### 学术论文
-
-- "A Critical Look at Programming Languages" (2000)
-- "The Next Mainstream Programming Language: A Game Developer's Perspective" (2006)
-- "Wild Speculation on Consumer Workloads: 2012-2020" (2008)
-- "The Verse Calculus: a Core Calculus for Functional Logic Programming" (2022)
-
----
-
-## 🔗 相关链接
-
-### 个人
-
-- [Tim Sweeney @ X (Twitter)](https://x.com/TimSweeneyEpic)
-
-### 公司
-
-- [Epic Games官网](https://www.epicgames.com)
-- [Unreal Engine官网](https://www.unrealengine.com)
-
-### 百科
-
-- [Wikipedia - Tim Sweeney](https://en.wikipedia.org/wiki/Tim_Sweeney_(game_developer))
-- [Wikipedia - Epic Games](https://en.wikipedia.org/wiki/Epic_Games)
-- [Wikipedia - Unreal Engine](https://en.wikipedia.org/wiki/Unreal_Engine)
-
-### 荣誉
-
-- [AIAS Hall of Fame Profile](https://www.interactive.org/special_awards/details.asp?idSpecialAwards=23)
-- [BAFTA Celebrates: Epic Games - Interview with Tim Sweeney](https://www.youtube.com/watch?v=cJxc_uXo_SM)
-
-### 新闻
-
-- [Forbes - Tim Sweeney Profile](https://www.forbes.com/profile/tim-sweeney/)
-- [Bloomberg - Tim Sweeney Billionaire Profile](https://www.bloomberg.com/billionaires/profiles/tim-sweeney/)
-
----
-
-*最后更新：2026年4月3日*

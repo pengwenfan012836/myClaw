@@ -1,4 +1,3 @@
-# Satya Nadella 萨提亚·纳德拉
 
 > "我们存在的意义就是要赋能每一个人，让他们在各自的位置上做出最好的成就。"
 
@@ -103,25 +102,3 @@
 
 ---
 
-## 📚 推荐阅读
-
-- 《刷新：重新发现商业与未来》(Hit Refresh) —— Satya Nadella 著
-- 《成为微软人》(Microsoft: A Novel) —— 作者待查
-- 《微软复苏记》(Trillion Dollar Coach) —— 埃里克·施密特等著
-- 《乔布斯传》 —— 沃尔特·艾萨克森著
-- 《从海盗到海军》 —— 沈博伦译
-
----
-
-## 🔗 相关链接
-
-- [维基百科 - Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella)
-- [微软CEO主页](https://www.microsoft.com/en-us/Investor/corp-governance/leadership/satya-nadella)
-- [Satya Nadella 官方Twitter](https://twitter.com/satyanadella)
-- [LinkedIn - Satya Nadella](https://www.linkedin.com/in/satyanadella)
-- [TED演讲 - How to Build a Company That People Want to Work For](https://www.ted.com/speakers/satya_nadella)
-- [Hit Refresh 官网](https://www.hitrefresh.co.in/)
-
----
-
-*最后更新：2026年4月3日*

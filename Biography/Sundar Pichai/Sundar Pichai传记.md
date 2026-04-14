@@ -1,4 +1,3 @@
-# Sundar Pichai 传记
 
 ## 基本信息表
 

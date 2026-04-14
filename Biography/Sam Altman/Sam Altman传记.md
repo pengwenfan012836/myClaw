@@ -1,4 +1,3 @@
-# Sam Altman 萨姆·阿尔特曼
 
 > "The most important thing is to be obsessed, to really believe that you're going to change the world." — Sam Altman
 
@@ -108,28 +107,3 @@
 
 ---
 
-## 📚 推荐阅读
-
-- [Sam Altman 官方博客](https://blog.samaltman.com)
-- [Sam Altman - Wikipedia (English)](https://en.wikipedia.org/wiki/Sam_Altman)
-- [The Age of AI - HBO Documentary](https://www.hbo.com/documentaries/the-age-of-ai)
-- 《AI 2041》- 李开复
-- [Sequoia Capital: Sam Altman](https://www.sequoiacap.com/speakers/sam-altman/)
-- [Y Combinator Wiki - Sam Altman](https://www.ycombinator.com/documents/)
-
----
-
-## 🔗 相关链接
-
-- [OpenAI 官网](https://openai.com)
-- [Sam Altman Twitter/X](https://twitter.com/sama)
-- [Sam Altman LinkedIn](https://www.linkedin.com/in/samaltman)
-- [Sam Altman - Time 100](https://time.com/collection/architects-of-ai/)
-- [Sam Altman Senate Testimony - YouTube](https://www.youtube.com/watch?v=)
-- [Worldcoin 官网](https://worldcoin.org)
-- [Helion Energy](https://www.helionenergy.com)
-- [Hydrazine Capital](https://hydrazine.io)
-
----
-
-*最后更新：2026年4月3日*
